@@ -6,7 +6,7 @@ import java.util.SimpleTimeZone;
 
 public class AssociationExample {
     public static void main(String[] args) {
-        Author author1= new Author("Shorno Kamal Roy");
+        Author author1= new Author("XXXXXX Kamal Roy");
         author1.writeBook("Harry Porter");
         author1.writeBook("Romeo Juliet");
 
